@@ -1,3 +1,6 @@
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Okami ラコステ <br>
+<img align="right" width="320" src="https://i.imgur.com/ugWb6BU.gif" />
+
 ```C#
 class SsageParuders (){
     public static void Main(string[] args) {
