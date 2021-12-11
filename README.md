@@ -6,7 +6,8 @@ class SsageParuders (){
         string[] l = new string[5] {"C", "C++", "Java"};
         for (UInt32 i=0; i < l.Length; i++)
             Console.WriteLine("Langs {0}", string.Format(l[(int)i]));
-    }}
+    }
+}
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsageParuders&theme=radical&show_icons=true) 
 ![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&hide=html&layout=compact&theme=radical) 
