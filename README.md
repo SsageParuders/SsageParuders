@@ -1,4 +1,4 @@
-## <img width="45" alt="about" src="https://github.com/SsageParuders/HQ_Notes/blob/master/img/202112120644728.jpeg"> SsageParuders <br>
+## SsageParuders <br>
 
 ![SsageParuders's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsageParuders&theme=github_dark&show_icons=true) 
 <img align="right" width="320" src="https://i.imgur.com/ugWb6BU.gif" />
