@@ -13,7 +13,7 @@ class SsageParuders (){
 }
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsageParuders&theme=radical&show_icons=true) 
-![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&hide=html&layout=compact&theme=radical) 
+![SsageParuders](https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&hide=html&layout=compact&theme=radical) 
 <!--
 **SsageParuders/SsageParuders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
