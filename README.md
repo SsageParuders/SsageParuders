@@ -13,5 +13,5 @@ class SsageParuders (){
 }
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsageParuders&theme=radical&show_icons=true) 
-![SsageParuders](https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&hide=html&layout=compact&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsageParuders&theme=github_dark&show_icons=true) 
+![SsageParuders](https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&hide=html&layout=compact&theme=github_dark) 
