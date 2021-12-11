@@ -16,3 +16,5 @@ class SsageParuders (){
 ```
 ![SsageParuders](https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&hide=html,TeX&theme=github_dark)
 ![SsageParuders](https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders&theme=github_dark&show_owner)
+![SsageParuders](https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=HQ_Notes&theme=github_dark&show_owner)
+
