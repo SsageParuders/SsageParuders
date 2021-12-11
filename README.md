@@ -1,6 +1,4 @@
-[patreon-badge]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkamiMks%26type%3Dpatrons&style=flat-square
-### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsageParuders&theme=radical&show_icons=true) ![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&hide=html&layout=compact&theme=radical) 
 <!--
 **SsageParuders/SsageParuders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
