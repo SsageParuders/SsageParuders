@@ -22,7 +22,10 @@ public class SsageParuders {
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders&theme=radical" />
 </a>
 <a href="https://github.com/SsageParuders/HQ_Notes">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=HQ_Notes&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders.github.io&theme=github_dark" />
+</a>
+<a href="https://github.com/SsageParuders/HQ_Notes">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=HQ_Notes&theme=radical" />
 </a>
 
 
