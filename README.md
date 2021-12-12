@@ -1,7 +1,4 @@
-[paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
-[paypal-link]: https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url 
-
-## SsageParuders <br>[![Paypal][paypal-badge]][paypal-link] <img alt="GitHub followers" src="https://img.shields.io/github/followers/SsageParuders?style=social" /> <a href="https://twitter.com/SsageP"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SsageP?style=social"></a>
+## SsageParuders <br><img alt="GitHub followers" src="https://img.shields.io/github/followers/SsageParuders?style=social" /> <a href="https://twitter.com/SsageP"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SsageP?style=social"></a>
 
 <img align="right" width="350" src="https://i.imgur.com/ugWb6BU.gif" />
 
