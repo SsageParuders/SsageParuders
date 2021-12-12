@@ -17,7 +17,13 @@ class Okami ラコステ (){
 ```
 
 ## SsageParuders <br>[![Paypal][paypal-badge]][paypal-link] <img alt="GitHub followers" src="https://img.shields.io/github/followers/SsageParuders?style=social" /> <a href="https://twitter.com/OkamiMwaree"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SsageP?style=social"></a>
-
+```java
+public class SsageParuders {
+    public static void main(String[] args) {
+        System.out.println("I'm SsageParuders");
+    }
+}
+```
 | <a href="https://github.com/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SsageParuders&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="SsageParuders's github stats" /></a> | <a href="https://github.com/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&layout=compact&theme=github_dark&hide_border=true&hide=html,TeX" /></a> |
 | ------------- | ------------- |
 <img align="right" width="220" src="https://i.imgur.com/ugWb6BU.gif" />
