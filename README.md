@@ -5,7 +5,7 @@
 
 | <a href="https://github.com/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SsageParuders&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="SsageParuders's github stats" /></a> | <a href="https://github.com/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&layout=compact&theme=github_dark&hide_border=true&hide=html,TeX" /></a> |
 | ------------- | ------------- |
-<img align="right" width="450" src="https://i.imgur.com/ugWb6BU.gif" />
+<img align="right" width="400" src="https://i.imgur.com/ugWb6BU.gif" />
 
 ```java
 public class SsageParuders {
