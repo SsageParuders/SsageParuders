@@ -22,11 +22,12 @@ public class SsageParuders {
 
 ## Top Repositories
 <a href="https://github.com/SsageParuders/SsageParuders">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders&theme=radical" />
 </a>
 <a href="https://github.com/SsageParuders/HQ_Notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=HQ_Notes&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=HQ_Notes&theme=radical" />
 </a>
+
 
 <br />
 <br />
