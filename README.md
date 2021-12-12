@@ -9,7 +9,6 @@
 public class SsageParuders {
     public static void main(String[] args) {
         System.out.println("I'm SsageParuders");
-        System.out.println("Programmer and Game Developer");
         String[] use = {"C","C++","Java","Assembly","Python"};
         System.out.print("I'm learning:\t");
         for (String language:use) {
