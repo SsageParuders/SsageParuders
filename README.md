@@ -24,8 +24,8 @@ public class SsageParuders {
 <a href="https://github.com/SsageParuders/SsageParuders.github.io">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders.github.io&theme=github_dark" />
 </a>
-<a href="https://github.com/SsageParuders/HQ_Notes">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=HQ_Notes&theme=radical" />
+<a href="https://github.com/SsageParuders/RES">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=RES&theme=radical" />
 </a>
 
 
