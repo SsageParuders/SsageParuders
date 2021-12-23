@@ -19,13 +19,16 @@ public class SsageParuders {
 
 ## Top Repositories
 <a href="https://github.com/SsageParuders/SsageParuders">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders&theme=github_dark" />
 </a>
 <a href="https://github.com/SsageParuders/SsageParuders.github.io">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders.github.io&theme=github_dark" />
 </a>
 <a href="https://github.com/SsageParuders/RES">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=RES&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=RES&theme=github_dark" />
+</a>
+<a href="https://github.com/SsageParuders/Study">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=Study&theme=github_dark" />
 </a>
 
 
