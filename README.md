@@ -14,7 +14,7 @@ public class SsageParuders {
 }
 ```
 
-| <a href="https://github.com/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SsageParuders&show_icons=true&theme=github_dark&hide_border=true" alt="SsageParuders's github stats" /></a> | <a href="https://github.com/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&layout=compact&theme=github_dark&hide_border=true&hide=html,TeX" /></a> |
+| <a href="https://github.com/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SsageParuders&show_icons=true&theme=github_dark&hide_border=true" alt="SsageParuders's github stats" /></a> | <a href="https://github.com/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&layout=compact&theme=github_dark&hide_border=true&hide=TeX" /></a> |
 | ------------- | ------------- |
 
 ## Top Repositories
