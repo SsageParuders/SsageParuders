@@ -27,9 +27,6 @@ public class SsageParuders {
 <a href="https://github.com/SsageParuders/RES">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=RES&theme=github_dark" />
 </a>
-<a href="https://github.com/SsageParuders/Study">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=Study&theme=github_dark" />
-</a>
 
 
 <br />
