@@ -18,19 +18,12 @@ public class SsageParuders {
 | ------------- | ------------- |
 
 ## Top Repositories
-<a href="https://github.com/SsageParuders/SsageParuders">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders&theme=github_dark" />
-</a>
-<a href="https://github.com/SsageParuders/SsageParuders.github.io">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders.github.io&theme=github_dark" />
-</a>
-<a href="https://github.com/SsageParuders/RES">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=RES&theme=github_dark" />
-</a>
-<a href="https://github.com/SsageParuders/Riru-SsageHook">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=Riru-SsageHook&theme=github_dark" />
-</a>
 
+| <a href="https://github.com/SsageParuders/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/SsageParuders/SsageParuders.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders.github.io&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+| <a href="https://github.com/SsageParuders/RES"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=RES&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/SsageParuders/Riru-SsageHook"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=Riru-SsageHook&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br />
 <br />
