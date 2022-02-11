@@ -22,7 +22,7 @@ public class SsageParuders {
 | <a href="https://github.com/SsageParuders/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/SsageParuders/SsageParuders.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders.github.io&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://github.com/SsageParuders/TrickGamesOnAndroid"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=TrickGamesOnAndroid&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/SsageParuders/ModGamesOnAndroidByInjectZygote"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=ModGamesOnAndroidByInjectZygote&theme=github_dark&hide_border=true" /></a> |
+| <a href="https://github.com/SsageParuders/ModGamesOnAndroid"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=ModGamesOnAndroid&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/SsageParuders/ModGamesOnAndroidByInjectZygote"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=ModGamesOnAndroidByInjectZygote&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
