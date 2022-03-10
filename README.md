@@ -19,7 +19,7 @@ public class SsageParuders {
 
 ## Top Repositories
 
-| <a href="https://github.com/SsageParuders/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/SsageParuders/SsageParuders.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders.github.io&theme=github_dark&hide_border=true" /></a> |
+| <a href="https://github.com/SsageParuders/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsageParuders&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/SsageParuders/AndroidPtraceInject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=AndroidPtraceInject&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 | <a href="https://github.com/SsageParuders/CheatUnityGames"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=CheatUnityGames&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/SsageParuders/ModGamesByInjectZygote"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=ModGamesByInjectZygote&theme=github_dark&hide_border=true" /></a> |
