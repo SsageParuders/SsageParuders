@@ -25,4 +25,7 @@ public class SsageParuders {
 | <a href="https://github.com/SsageParuders/CheatUnityGames"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=CheatUnityGames&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/SsageParuders/ModGamesByInjectZygote"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=ModGamesByInjectZygote&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+| <a href="https://github.com/SsageParuders/Android_Native_Surface"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=Android_Native_Surface&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/SsageParuders/Android_SVC_Edu"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=Android_SVC_Edu&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
