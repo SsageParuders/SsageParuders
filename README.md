@@ -13,19 +13,3 @@ public class SsageParuders {
     }
 }
 ```
-
-| <a href="https://github.com/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SsageParuders&show_icons=true&theme=github_dark&hide_border=true" alt="SsageParuders's github stats" /></a> | <a href="https://github.com/SsageParuders"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&layout=compact&theme=github_dark&hide_border=true&hide=TeX" /></a> |
-| ------------- | ------------- |
-
-## Top Repositories
-
-| <a href="https://github.com/SsageParuders/SsagePass"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=SsagePass&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/SsageParuders/AndroidPtraceInject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=AndroidPtraceInject&theme=github_dark&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-| <a href="https://github.com/SsageParuders/CheatUnityGames"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=CheatUnityGames&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/SsageParuders/ModGamesByInjectZygote"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=ModGamesByInjectZygote&theme=github_dark&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-| <a href="https://github.com/SsageParuders/Android_Native_Surface"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=Android_Native_Surface&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/SsageParuders/Android_SVC_Edu"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SsageParuders&repo=Android_SVC_Edu&theme=github_dark&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
