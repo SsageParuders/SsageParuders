@@ -1,4 +1,4 @@
-## SsageParuders <br><img alt="GitHub followers" src="https://img.shields.io/github/followers/SsageParuders?style=social" /> <a href="https://twitter.com/SsageParuders"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SsageP?style=social"></a>
+## SsageParuders <br><img alt="GitHub followers" src="https://img.shields.io/github/followers/SsageParuders?style=social" /> <a href="https://twitter.com/SsageParuders"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SsageParuders?style=social"></a>
 
 <img align="right" width="350" src="https://i.imgur.com/ugWb6BU.gif" />
 
