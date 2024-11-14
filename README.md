@@ -13,3 +13,5 @@ public class SsageParuders {
     }
 }
 ```
+
+![Visited By](https://count.getloli.com/get/@SsageParuders?theme=gelbooru)
