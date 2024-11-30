@@ -16,6 +16,14 @@ public:
 };
 ```
 
-## Visitors:
+## Stats:
 
-![Visited By](https://count.getloli.com/get/@SsageParuders?theme=gelbooru)
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+  <!-- 左边部分 -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://count.getloli.com/get/@SsageParuders?theme=gelbooru" alt="Visited By" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SsageParuders&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="SsageParuders's GitHub Stats" />
+  </div>
+
+</div>
