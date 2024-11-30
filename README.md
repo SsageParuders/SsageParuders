@@ -2,8 +2,6 @@
 
 ## Introduction
 
-<img align="right" width="470" src="https://i.imgur.com/ugWb6BU.gif" />
-
 ```cpp
 class SsageParuders {
 public:
