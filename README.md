@@ -28,6 +28,6 @@ public:
   <!-- 右侧内容 -->
   <div style="margin-left: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=SsageParuders&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="SsageParuders's GitHub Stats" />
-    <img width="350" src="https://i.imgur.com/ugWb6BU.gif" />
+    <img width="350" style="border-radius: 50px;" src="https://i.imgur.com/ugWb6BU.gif" alt="Image" />
   </div>
 </div>
