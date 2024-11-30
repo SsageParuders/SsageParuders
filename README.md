@@ -18,17 +18,11 @@ public:
 
 ## Stats:
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start;">
-
-  <!-- 左侧内容 -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
     <img src="https://count.getloli.com/get/@SsageParuders?theme=gelbooru" alt="Visited By" />
+  </div>
+  <div style="margin-left: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=SsageParuders&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="SsageParuders's GitHub Stats" />
   </div>
-
-  <!-- 右侧内容 -->
-  <div style="margin-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top Languages" />
-  </div>
-
 </div>
