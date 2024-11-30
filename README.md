@@ -22,7 +22,7 @@ public:
   <!-- 左侧内容 -->
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
     <img src="https://count.getloli.com/get/@SsageParuders?theme=gelbooru" alt="Visited By" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsageParuders&layout=donut&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Most Used Languages" />
   </div>
 
   <!-- 右侧内容 -->
